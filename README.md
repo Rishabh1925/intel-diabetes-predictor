@@ -1,7 +1,7 @@
 # Intel AI for Youth - Diabetes Predictor Project
 
 ### 👤 Author: Rishabh Ranjan Singh  
-### 🏫 Class 9 - DAV Public School, Gurugram  
+### 🏫 Class 9 - DAV Public School, Sector-14, Gurugram  
 ### 🧠 Program: Intel AI for Youth  
 
 ---
